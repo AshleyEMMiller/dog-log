@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-09-0743-kibeth-down-stay-practice/","tags":["DogTraining/Session","#Doggos/Activity"],"noteIcon":"","created":"2024-08-09T07:44:08.379-03:00","updated":"2024-08-11T14:04:37.785-03:00"}
+{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-09-0743-kibeth-down-stay-practice/","tags":["DogTraining/Session","#Doggos/Activity"],"noteIcon":"","created":"2024-08-09T07:44:08.379-03:00","updated":"2024-08-11T16:35:49.222-03:00"}
 ---
 
 !`=this.Cover`
 
 **Overall Rating:** `=this.Rating`
-**Summary**: I did Down Stay/Relaxation Protocol with `=this.Doggos` at/in Home - Kitchen for `=this.Duration` minutes.
+**Summary**: I did Down Stay/Relaxation Protocol with [Kibeth] at/in Home - Kitchen for `=this.Duration` minutes.
 # Activities
 >[!Important]-  Time tracker
 {"entries":[{"name":"Segment 1","startTime":"2024-08-09T10:47:07.328Z","endTime":null,"subEntries":null}]}

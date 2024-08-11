@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-09-0904-kibeth-trick-training/","tags":["DogTraining/Session","#Doggos/Activity"],"noteIcon":"","created":"2024-08-09T08:46:32.671-03:00","updated":"2024-08-11T14:04:39.747-03:00"}
+{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-09-0904-kibeth-trick-training/","tags":["DogTraining/Session","#Doggos/Activity"],"noteIcon":"","created":"2024-08-09T08:46:32.671-03:00","updated":"2024-08-11T16:34:34.961-03:00"}
 ---
 
 !`=this.Cover`
 
 **Overall Rating:** `=this.Rating`
-**Summary**: I did `=this.Type` with `=this.Doggos` at/in `=this.Location` for `=this.Duration` minutes.
+**Summary**: I did `=this.Type` with Kibeth at/in `=this.Location` for `=this.Duration` minutes.
 # Activities
 >[!Important]-  Time tracker
 >```simple-time-tracker

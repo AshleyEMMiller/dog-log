@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-05-2342-kibeth-neighbourhood-walk/","tags":["DogTraining/Session"],"noteIcon":"","created":"2024-08-06T01:55:24.612-03:00","updated":"2024-08-06T02:32:35.412-03:00"}
+{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-05-2342-kibeth-neighbourhood-walk/","tags":["DogTraining/Session","#Doggos/Activity"],"noteIcon":"","created":"2024-08-06T01:55:24.612-03:00","updated":"2024-08-11T16:33:05.831-03:00"}
 ---
 
 !`=this.Cover`
