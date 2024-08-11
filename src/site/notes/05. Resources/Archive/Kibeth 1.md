@@ -11,12 +11,37 @@ null
 
 
 # Kibeth's Incidents
-| Session                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------- |
-| [[01. Dog Logs/02. Events/Kibeth/2023-11-28 -Hike at Bronson\|2023-11-28 -Hike at Bronson]]                        |
-| [[01. Dog Logs/02. Events/Kibeth/2023-12-03-Kibeth meet up with Tuzz\|2023-12-03-Kibeth meet up with Tuzz]]        |
-| [[01. Dog Logs/02. Events/Kibeth/2023-11-28 - At NDS\|2023-11-28 - At NDS]]                                        |
-| [[01. Dog Logs/02. Events/2024-08-10-0948 - Kibeth Downstay Practice\|2024-08-10-0948 - Kibeth Downstay Practice]] |
+| Session                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[01. Dog Logs/02. Events/2024-08-10-0948 - Kibeth Downstay Practice\|2024-08-10-0948 - Kibeth Downstay Practice]]                                                   |
+| [[01. Dog Logs/02. Events/2024-01-23 Kibeth Practiced Obedience and ate dinner from Box Tower\|2024-01-23 Kibeth Practiced Obedience and ate dinner from Box Tower]] |
+| [[01. Dog Logs/02. Events/2023-11-28 - At NDS\|2023-11-28 - At NDS]]                                                                                                 |
+| [[01. Dog Logs/02. Events/2023-11-28 -Hike at Bronson\|2023-11-28 -Hike at Bronson]]                                                                                 |
+| [[01. Dog Logs/02. Events/2023-12-22 Kibeth tug\|2023-12-22 Kibeth tug]]                                                                                             |
+| [[01. Dog Logs/02. Events/2024-01-01 - Kibeth Run at Brunello\|2024-01-01 - Kibeth Run at Brunello]]                                                                 |
+| [[01. Dog Logs/02. Events/2023-12-31 - Kibeth and Loki play with Rosie\|2023-12-31 - Kibeth and Loki play with Rosie]]                                               |
+| [[01. Dog Logs/02. Events/2023-12-03-Kibeth meet up with Tuzz\|2023-12-03-Kibeth meet up with Tuzz]]                                                                 |
+| [[01. Dog Logs/02. Events/2023-12-26 - Kibeth hike at whopper dropper\|2023-12-26 - Kibeth hike at whopper dropper]]                                                 |
+| [[01. Dog Logs/02. Events/2024-01-02 - Kibeth at Vernon's Powerline trail\|2024-01-02 - Kibeth at Vernon's Powerline trail]]                                         |
+| [[01. Dog Logs/02. Events/2024-01-03 - KIbeth Bowlin Intake\|2024-01-03 - KIbeth Bowlin Intake]]                                                                     |
+| [[01. Dog Logs/02. Events/2023-12-05 - Doggy Ping Pong In the Yard\|2023-12-05 - Doggy Ping Pong In the Yard]]                                                       |
+| [[01. Dog Logs/02. Events/2023-12-06 - Downstay 30 minutes during my scrum meeting\|2023-12-06 - Downstay 30 minutes during my scrum meeting]]                       |
+| [[01. Dog Logs/02. Events/2023-12-23-Kibeth and Loki play with Rosie\|2023-12-23-Kibeth and Loki play with Rosie]]                                                   |
+| [[01. Dog Logs/02. Events/2024-08-05-2342 - Kibeth Neighbourhood Walk\|2024-08-05-2342 - Kibeth Neighbourhood Walk]]                                                 |
+| [[01. Dog Logs/02. Events/2024-07-09 - 1000 - Kibeth\|2024-07-09 - 1000 - Kibeth]]                                                                                   |
+| [[01. Dog Logs/02. Events/2024-07-08 - 1150am - Kibeth LAT training\|2024-07-08 - 1150am - Kibeth LAT training]]                                                     |
+| [[01. Dog Logs/02. Events/2024-08-09-0904 - Kibeth Trick training\|2024-08-09-0904 - Kibeth Trick training]]                                                         |
+| [[01. Dog Logs/02. Events/2024-01-29 - Kibeth Test\|2024-01-29 - Kibeth Test]]                                                                                       |
+| [[01. Dog Logs/02. Events/2024-02-11 - KIbeth threw up in bed\|2024-02-11 - KIbeth threw up in bed]]                                                                 |
+| [[01. Dog Logs/02. Events/2024-02-19 - Behaviour Consultant Intake with Catherine\|2024-02-19 - Behaviour Consultant Intake with Catherine]]                         |
+| [[01. Dog Logs/02. Events/2024-03-05 - Breath\|2024-03-05 - Breath]]                                                                                                 |
+| [[01. Dog Logs/02. Events/2024-04-15 - Kibeth Deck and Kitchen Downstays\|2024-04-15 - Kibeth Deck and Kitchen Downstays]]                                           |
+| [[01. Dog Logs/02. Events/2024-04-18 - Kibeth Downstay Deck\|2024-04-18 - Kibeth Downstay Deck]]                                                                     |
+| [[01. Dog Logs/02. Events/2024-06-18 - Scent detection session\|2024-06-18 - Scent detection session]]                                                               |
+| [[01. Dog Logs/02. Events/2024-06-19 - Relaxation Protocol\|2024-06-19 - Relaxation Protocol]]                                                                       |
+| [[01. Dog Logs/02. Events/2024-08-09-0743 - Kibeth Down stay practice\|2024-08-09-0743 - Kibeth Down stay practice]]                                                 |
+| [[01. Dog Logs/02. Events/2024-08-11-1215 - Kibeth Multi\|2024-08-11-1215 - Kibeth Multi]]                                                                           |
+| [[01. Dog Logs/02. Events/2024-08-10-2114 - Kibeth Trick Training\|2024-08-10-2114 - Kibeth Trick Training]]                                                         |
 
 { .block-language-dataview}
 
