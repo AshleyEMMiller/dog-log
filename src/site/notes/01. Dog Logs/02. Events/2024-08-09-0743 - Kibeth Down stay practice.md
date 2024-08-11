@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-09-0743-kibeth-down-stay-practice/","tags":["DogTraining/Session",null],"noteIcon":"","created":"2024-08-09T07:44:08.379-03:00","updated":"2024-08-11T20:12:24.152-03:00"}
+{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-09-0743-kibeth-down-stay-practice/","tags":["Doggos/Activity"],"noteIcon":"","created":"2024-08-09T07:44:08.379-03:00","updated":"2024-08-11T20:45:48.589-03:00"}
 ---
 
 !`=this.Cover`

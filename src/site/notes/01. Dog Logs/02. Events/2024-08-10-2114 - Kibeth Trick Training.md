@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-10-2114-kibeth-trick-training/","tags":["DogTraining/Session",null],"noteIcon":"","created":"2024-08-10T21:14:56.589-03:00","updated":"2024-08-11T20:12:54.502-03:00"}
+{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-10-2114-kibeth-trick-training/","tags":["Doggos/Activity"],"noteIcon":"","created":"2024-08-10T21:14:56.589-03:00","updated":"2024-08-11T20:46:07.251-03:00"}
 ---
 
 !`=this.Cover`

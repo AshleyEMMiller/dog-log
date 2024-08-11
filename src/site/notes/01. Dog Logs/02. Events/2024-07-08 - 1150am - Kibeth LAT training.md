@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-07-08-1150am-kibeth-lat-training/","tags":["DogTraining/Session",null],"noteIcon":"","created":"2024-07-08T11:51:35.000-03:00","updated":"2024-08-11T20:11:59.071-03:00"}
+{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-07-08-1150am-kibeth-lat-training/","tags":["Doggos/Activity"],"noteIcon":"","created":"2024-07-08T11:51:35.000-03:00","updated":"2024-08-11T20:45:30.045-03:00"}
 ---
+
 
 # Notes
 Media:: 
