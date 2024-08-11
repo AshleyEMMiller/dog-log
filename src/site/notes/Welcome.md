@@ -1,20 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2024-08-11T13:48:36.274-03:00","updated":"2024-08-11T18:38:48.161-03:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2024-08-11T13:48:36.274-03:00","updated":"2024-08-11T19:03:20.051-03:00"}
 ---
 
->[!multi-column]
->
->>[!blank]
->>This is information
->
->>[!doggos] [[01. Dog Logs/Kibeth\|Kibeth]]
->>
->
->>[!blank]
->>This is information
->
->>[!doggos] [[01. Dog Logs/Loki\|Loki]]
->>this is warning
 
 
 | File                                                                                                                    | Cover        | Doggos       | Type                          | Rating     |
