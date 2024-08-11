@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-09-0743-kibeth-down-stay-practice/","tags":["DogTraining/Session","#Doggos/Activity"],"noteIcon":"","created":"2024-08-09T07:44:08.379-03:00","updated":"2024-08-11T16:35:49.222-03:00"}
+{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-09-0743-kibeth-down-stay-practice/","tags":["DogTraining/Session",null],"noteIcon":"","created":"2024-08-09T07:44:08.379-03:00","updated":"2024-08-11T20:12:24.152-03:00"}
 ---
 
 !`=this.Cover`
 
 **Overall Rating:** `=this.Rating`
-**Summary**: I did Down Stay/Relaxation Protocol with [Kibeth] at/in Home - Kitchen for `=this.Duration` minutes.
+**Summary**: I did Down Stay/Relaxation Protocol with Kibeth at/in Home - Kitchen for 45 minutes.
 # Activities
 >[!Important]-  Time tracker
 {"entries":[{"name":"Segment 1","startTime":"2024-08-09T10:47:07.328Z","endTime":null,"subEntries":null}]}
@@ -18,6 +18,19 @@
 
 
 [[02. Dog Training/Training/Skills/Down-Stay\|Down-Stay]]
+
+| Segment                     | Start time | End time | Duration    |
+| --------------------------- | ---------- | -------- | ----------- |
+| Segment 1                   | 07:47:48   | 08:11:00 | 23m 12s     |
+| Rapid Treats - Open Bar     | 08:11:01   | 08:16:33 | 5m 32s      |
+| Segment 3                   | 08:16:33   | 08:19:14 | 2m 41s      |
+| Hip Flop downstay           | 08:19:16   | 08:20:20 | 1m 4s       |
+| Got up                      | 08:20:26   | 08:20:39 | 13s         |
+| Hip flop                    | 08:20:39   | 08:26:28 | 5m 49s      |
+| Loki jined down stay        | 08:26:28   | 08:31:43 | 5m 15s      |
+| Kibeth up - checking treats | 08:31:44   | 08:31:55 | 11s         |
+| Kibeth and Loki downstay    | 08:31:56   | 08:33:28 | 1m 32s      |
+| **Total**                   |            |          | **45m 32s** |
 
 # Notes
 
