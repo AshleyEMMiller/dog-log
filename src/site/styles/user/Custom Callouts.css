@@ -1,0 +1,474 @@
+/* The following code is the base for a callout*/
+
+
+.callout[data-callout="art"] {
+	--callout-color: 25, 100, 255; 
+	--callout-icon: lucide-palette;
+	border-radius: 10px;
+}
+
+.callout[data-callout="write"] {
+	--callout-color: 25, 100, 255; 
+	--callout-icon: lucide-feather;
+	border-radius: 10px;
+}
+
+.callout[data-callout="idea"] {
+	--callout-color: 80, 180, 200; 
+	--callout-icon: lucide-lightbulb;
+	border-radius: 10px;
+}
+
+.callout[data-callout="key"] {
+	--callout-color: 80, 180, 200; 
+	--callout-icon: lucide-key;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="reflection"] {
+	--callout-color: 80, 180, 200; 
+	--callout-icon: lucide-glasses;
+	border-radius: 10px;
+}
+
+.callout[data-callout="doggos"] {
+	--callout-color: 00, 205, 00; 
+	--callout-icon: lucide-dog;
+	border-radius: 20px;
+}
+
+.callout[data-callout="health"] {
+	--callout-color: 255, 205, 00; 
+	--callout-icon: lucide-heart-pulse;
+	border-radius: 10px;
+}
+
+.callout[data-callout="wellness"] {
+	--callout-color: 255, 200, 00; 
+	--callout-icon: lucide-crown;
+	border-radius: 10px;
+}
+
+.callout[data-callout="adhd"] {
+	--callout-color: 255, 170, 00; 
+	--callout-icon: lucide-loader;
+	border-radius: 40px;
+}
+
+.callout[data-callout="therapy"] {
+	--callout-color: 235, 180, 00; 
+	--callout-icon: lucide-message-circle;
+	border-radius: 10px;
+}
+
+.callout[data-callout="emotion"] {
+	--callout-color: 235, 180, 00; 
+	--callout-icon: lucide-bomb;
+	
+}
+
+
+.callout[data-callout="date"] {
+	--callout-color: 204, 0, 102; 
+	--callout-icon: lucide-calendar-days;
+	border-radius: 10px;
+}
+
+.callout[data-callout="blake"] {
+	--callout-color: 190, 0, 100; 
+	--callout-icon: lucide-heart;
+	border-radius: 10px;
+}
+
+.callout[data-callout="social"] {
+	--callout-color: 150, 0, 190; 
+	--callout-icon: lucide-user;
+	border-radius: 10px;
+}
+
+.callout[data-callout="performance"] {
+	--callout-color: 255, 51, 51; 
+	--callout-icon: lucide-trophy;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="meaning"] {
+	--callout-color: 250, 100, 40; 
+	--callout-icon: lucide-compass;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="image"] {
+	--callout-color: 25, 100, 255; 
+	--callout-icon: lucide-file-image;
+	border-radius: 10px;
+}
+
+.callout[data-callout="rewrite"] {
+	--callout-color: 0, 00, 153; 
+	--callout-icon: lucide-eraser;
+	border-radius: 10px;
+}
+
+.callout[data-callout="edit"] {
+	--callout-color: 255, 00, 00; 
+	--callout-icon: lucide-wrench;
+	border-radius: 10px;
+}
+
+.callout[data-callout="research"] {
+	--callout-color: 204, 00, 00; 
+	--callout-icon: lucide-microscope;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="artfulness"] {
+	--callout-color: 05, 205, 205; 
+	--callout-icon: lucide-wand-2;
+	border-radius: 10px;
+}
+
+.callout[data-callout="lyricism"] {
+	--callout-color: 05, 205, 205; 
+	--callout-icon: lucide-wand-2;
+	border-radius: 10px;
+}
+
+.callout[data-callout="metaphor"] {
+	--callout-color: 05, 205, 205; 
+	--callout-icon: lucide-sparkles;
+	border-radius: 10px;
+}
+
+.callout[data-callout="symbolism"] {
+	--callout-color: 05, 205, 205; 
+	--callout-icon: lucide-sparkles;
+	border-radius: 10px;
+}
+
+.callout[data-callout="depth"] {
+	--callout-color: 05, 205, 205; 
+	--callout-icon: lucide-shovel;
+	border-radius: 10px;
+}
+
+.callout[data-callout="concept"] {
+	--callout-color: 05, 205, 205; 
+	--callout-icon: lucide-lightbulb;
+	border-radius: 10px;
+}
+
+.callout[data-callout="theme"] {
+	--callout-color: 05, 205, 205; 
+	--callout-icon: lucide-package-open;
+	border-radius: 10px;
+}
+
+
+
+.callout[data-callout="motivation"] {
+	--callout-color: 255, 128, 00; 
+	--callout-icon: lucide-zap;
+	border-radius: 10px;
+}
+
+
+
+.callout[data-callout="purpose"] {
+	--callout-color: 255, 128, 51; 
+	--callout-icon: lucide-compass;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="learnings"] {
+	--callout-color: 255, 128, 00; 
+	--callout-icon: lucide-sprout;
+	border-radius: 10px;
+}
+
+
+
+.callout[data-callout="arc"] {
+	--callout-color: 00, 153, 153; 
+	--callout-icon: lucide-line-chart;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="plot"] {
+	--callout-color: 00, 153, 153; 
+	--callout-icon: lucide-milestone;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="beats"] {
+	--callout-color: 00, 153, 153; 
+	--callout-icon: lucide-activity;
+	border-radius: 10px;
+}
+
+.callout[data-callout="dialogue"] {
+	--callout-color: 50, 00, 153; 
+	--callout-icon: lucide-message-circle;
+	border-radius: 10px;
+}
+
+.callout[data-callout="conversation"] {
+	--callout-color: 50, 00, 153; 
+	--callout-icon: lucide-message-circle;
+	border-radius: 10px;
+}
+
+.callout[data-callout="conflict"] {
+	--callout-color: 204, 00, 102; 
+	--callout-icon: lucide-bomb;
+	border-radius: 40px
+	
+}
+
+.callout[data-callout="disaster"] {
+	--callout-color: 204, 00, 102; 
+	--callout-icon: lucide-bomb;
+	border-radius: 40px
+	
+}
+
+
+.callout[data-callout="misunderstanding"] {
+	--callout-color: 204, 00, 102; 
+	--callout-icon: lucide-venetian-mask;
+	border: 1px solid rgba(204, 50, 103, 0.90);
+	border-radius: 40px;
+	
+}
+
+
+.callout[data-callout="lore"] {
+	--callout-color: 10, 102, 00; 
+	--callout-icon: lucide-library;
+	border-radius: 10px;
+}
+
+.callout[data-callout="history"] {
+	--callout-color: 10, 102, 00; 
+	--callout-icon: lucide-library;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="character"] {
+	--callout-color: 150, 0, 190; 
+	--callout-icon: lucide-user;
+	border-radius: 10px;
+}
+
+.callout[data-callout="description"] {
+	--callout-color: 150, 120, 50; 
+	--callout-icon: lucide-eye;
+	border-radius: 10px;
+}
+
+
+
+.callout[data-callout="organization"] {
+	--callout-color: 75, 00, 150; 
+	--callout-icon: lucide-users;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="group"] {
+	--callout-color: 75, 00, 150; 
+	--callout-icon: lucide-users;
+	border-radius: 10px;
+}
+
+.callout[data-callout="groups"] {
+	--callout-color: 75, 00, 150; 
+	--callout-icon: lucide-users;
+	border-radius: 10px;
+}
+
+.callout[data-callout="relationships"] {
+	--callout-color: 127, 100, 255; 
+	--callout-icon: lucide-git-fork;
+	border-radius: 10px;
+}
+
+.callout[data-callout="relationship"] {
+	--callout-color: 127, 100, 255;; 
+	--callout-icon: lucide-git-fork;
+	border-radius: 10px;
+}
+
+.callout[data-callout="progress"] {
+	--callout-color: 50, 200, 51; 
+	--callout-icon: lucide-award;
+	border-radius: 10px;
+}
+
+.callout[data-callout="obstacle"] {
+	--callout-color: 255, 51, 51; 
+	--callout-icon: lucide-mountain;
+	border-radius: 10px;
+}
+
+.callout[data-callout="obstacles"] {
+	--callout-color: 255, 51, 51; 
+	--callout-icon: lucide-mountain;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="goal"] {
+	--callout-color: 155, 00, 76; 
+	--callout-icon: lucide-goal;
+	border-radius: 10px;
+}
+
+.callout[data-callout="goals"] {
+	--callout-color: 155, 00, 76; 
+	--callout-icon: lucide-goal;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="event"] {
+	--callout-color: 75, 150, 00; 
+	--callout-icon: lucide-calendar;
+	border-radius: 10px;
+}
+
+.callout[data-callout="location"] {
+	--callout-color: 00, 75, 15; 
+	--callout-icon: lucide-map-pin;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="object"] {
+	--callout-color: 00, 51, 102; 
+	--callout-icon: lucide-gift;
+	border-radius: 10px;
+}
+
+.callout[data-callout="objects"] {
+	--callout-color: 00, 51, 102; 
+	--callout-icon: lucide-gift;
+	border-radius: 10px;
+}
+
+
+
+.callout[data-callout="world"] {
+	--callout-color: 00, 75, 15;
+	--callout-icon: lucide-globe-2;
+	border-radius: 10px;
+}
+
+
+
+.callout[data-callout="details"] {
+	--callout-color: 20, 200, 25; 
+	--callout-icon: lucide-search;
+	border-radius: 10px;
+}
+
+.callout[data-callout="detail"] {
+	--callout-color: 20, 200, 25; 
+	--callout-icon: lucide-search;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="weather"] {
+	--callout-color: 00, 205, 150; 
+	--callout-icon: lucide-thermometer-sun;
+	border-radius: 10px;
+}
+
+.callout[data-callout="food"] {
+	--callout-color: 20, 200, 50; 
+	--callout-icon: lucide-soup;
+	border-radius: 10px;
+}
+
+.callout[data-callout="drink"] {
+	--callout-color: 20, 200, 50; 
+	--callout-icon: lucide-glass-water;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="next"] {
+	--callout-color: 250, 40, 140; 
+	--callout-icon: lucide-fast-forward;
+	border-radius: 10px;
+}
+
+.callout[data-callout="past"] {
+	--callout-color: 250, 40, 140; 
+	--callout-icon: lucide-rewind;
+	border-radius: 10px;
+}
+
+.callout[data-callout="inprogress"] {
+	--callout-color: 250, 40, 140; 
+	--callout-icon: lucide-play;
+	border-radius: 10px;
+}
+
+
+.callout[data-callout="onhold"] {
+	--callout-color: 50, 70, 140; 
+	--callout-icon: lucide-pause;
+	border-radius: 10px;
+}
+
+.callout[data-callout="conclusion"] {
+	--callout-color: 50, 200, 240; 
+	--callout-icon: lucide-scale;
+	border-radius: 10px;
+}
+
+.callout[data-callout="evidence"] {
+	--callout-color: 50, 200, 240; 
+	--callout-icon: lucide-weight;
+	border-radius: 10px;
+}
+
+.callout[data-callout="tool"] {
+	--callout-color: 50, 200, 240; 
+	--callout-icon: lucide-pocket-knife;
+	border-radius: 10px;
+}
+
+.callout[data-callout="mythoughts"] {
+	--callout-color: 50, 200, 240; 
+	--callout-icon: lucide-flask-conical;
+	border-radius: 10px;
+}
+
+.callout[data-callout="however"] {
+	--callout-color: 50, 200, 240; 
+	--callout-icon: lucide-glasses;
+	border-radius: 10px;
+}
+
+.callout[data-callout="toimprove"] {
+	--callout-color: 50, 200, 240; 
+	--callout-icon: lucide-heart-crack;
+	border-radius: 10px;
+}
+
+.callout[data-callout="bigwin"] {
+	--callout-color: 50, 200, 240; 
+	--callout-icon: lucide-award;
+	border-radius: 10px;
+}
