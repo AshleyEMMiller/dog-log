@@ -1,29 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/01-dog-logs/kibeth/","noteIcon":"","created":"2023-11-26T22:05:58.000-04:00","updated":"2024-08-11T18:56:02.158-03:00"}
+{"dg-publish":true,"permalink":"/01-dog-logs/kibeth/","noteIcon":"","created":"2023-11-26T22:05:58.000-04:00","updated":"2024-08-11T20:19:33.345-03:00"}
 ---
 
-
-
-
 # Activities
+
 | File                                                                                                                                                                    | Type           | Duration (mins) | Location                | Rating     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------------- | ----------------------- | ---------- |
-| [[01. Dog Logs/02. Events/2024-01-23 Kibeth Practiced Obedience and ate dinner from Box Tower\|2024-01-23 Kibeth Practiced Obedience and ate dinner from Box Tower]] | Skill Training | 0               | Home -Living Room       | \-         |
-| [[01. Dog Logs/02. Events/2023-11-28 -Hike at Bronson\|2023-11-28 -Hike at Bronson]]                                                                                 | Walk/Hike      | 55              | Bronson Ave             | ⭐️⭐️⭐️⭐️⭐️ |
-| [[01. Dog Logs/02. Events/2023-12-22 Kibeth tug\|2023-12-22 Kibeth tug]]                                                                                             | \-             | 15              | \-                      | \-         |
-| [[01. Dog Logs/02. Events/2024-01-01 - Kibeth Run at Brunello\|2024-01-01 - Kibeth Run at Brunello]]                                                                 | \-             | 40              | Links At Brunello       | \-         |
-| [[01. Dog Logs/02. Events/2023-12-31 - Kibeth and Loki play with Rosie\|2023-12-31 - Kibeth and Loki play with Rosie]]                                               | Social Time    | 65              | \-                      | \-         |
-| [[01. Dog Logs/02. Events/2023-12-26 - Kibeth hike at whopper dropper\|2023-12-26 - Kibeth hike at whopper dropper]]                                                 | Walk/Hike      | 140             | Whopper Dropper         | ⭐️⭐️⭐️⭐️   |
-| [[01. Dog Logs/02. Events/2024-01-02 - Kibeth at Vernon's Powerline trail\|2024-01-02 - Kibeth at Vernon's Powerline trail]]                                         | Walk/Hike      | 42              | \-                      | ⭐️⭐️⭐️⭐️   |
+| [[01. Dog Logs/02. Events/2024-08-11-1215 - Kibeth Multi\|2024-08-11-1215 - Kibeth Multi]]                                                                           | \-             | 45              | \-                      | \-         |
+| [[01. Dog Logs/02. Events/2024-06-19 - Relaxation Protocol\|2024-06-19 - Relaxation Protocol]]                                                                       | Down Stay      | 0               | \-                      | \-         |
+| [[01. Dog Logs/02. Events/2024-06-18 - Scent detection session\|2024-06-18 - Scent detection session]]                                                               | Down Stay      | 0               | \-                      | \-         |
+| [[01. Dog Logs/02. Events/2024-04-18 - Kibeth Downstay Deck\|2024-04-18 - Kibeth Downstay Deck]]                                                                     | Down Stay      | 0               | \-                      | \-         |
+| [[01. Dog Logs/02. Events/2024-04-15 - Kibeth Deck and Kitchen Downstays\|2024-04-15 - Kibeth Deck and Kitchen Downstays]]                                           | Down Stay      | 30              | \-                      | \-         |
+| [[01. Dog Logs/02. Events/2024-03-05 - Breath\|2024-03-05 - Breath]]                                                                                                 | Down Stay      | 0               | \-                      | \-         |
 | [[01. Dog Logs/02. Events/2024-01-03 - KIbeth Bowlin Intake\|2024-01-03 - KIbeth Bowlin Intake]]                                                                     | \-             | 30              | Bowlin Doggy Adventures | ⭐️⭐️⭐️     |
+| [[01. Dog Logs/02. Events/2024-01-02 - Kibeth at Vernon's Powerline trail\|2024-01-02 - Kibeth at Vernon's Powerline trail]]                                         | Walk/Hike      | 42              | \-                      | ⭐️⭐️⭐️⭐️   |
+| [[01. Dog Logs/02. Events/2023-12-26 - Kibeth hike at whopper dropper\|2023-12-26 - Kibeth hike at whopper dropper]]                                                 | Walk/Hike      | 140             | Whopper Dropper         | ⭐️⭐️⭐️⭐️   |
+| [[01. Dog Logs/02. Events/2023-12-23-Kibeth and Loki play with Rosie\|2023-12-23-Kibeth and Loki play with Rosie]]                                                   | Social Time    | 90              | Dentist Yard            | ⭐️⭐️⭐️⭐️   |
 | [[01. Dog Logs/02. Events/2023-12-05 - Doggy Ping Pong In the Yard\|2023-12-05 - Doggy Ping Pong In the Yard]]                                                       | \-             | 10              | Home - Back Yard        | ⭐️⭐️⭐️⭐️   |
 | [[01. Dog Logs/02. Events/2023-12-06 - Downstay 30 minutes during my scrum meeting\|2023-12-06 - Downstay 30 minutes during my scrum meeting]]                       | Down Stay      | 30              | Home - Living Room      | ⭐️⭐️⭐️     |
-| [[01. Dog Logs/02. Events/2023-12-23-Kibeth and Loki play with Rosie\|2023-12-23-Kibeth and Loki play with Rosie]]                                                   | Social Time    | 90              | Dentist Yard            | ⭐️⭐️⭐️⭐️   |
-| [[01. Dog Logs/02. Events/2024-03-05 - Breath\|2024-03-05 - Breath]]                                                                                                 | Down Stay      | 0               | \-                      | \-         |
-| [[01. Dog Logs/02. Events/2024-04-15 - Kibeth Deck and Kitchen Downstays\|2024-04-15 - Kibeth Deck and Kitchen Downstays]]                                           | Down Stay      | 30              | \-                      | \-         |
-| [[01. Dog Logs/02. Events/2024-04-18 - Kibeth Downstay Deck\|2024-04-18 - Kibeth Downstay Deck]]                                                                     | Down Stay      | 0               | \-                      | \-         |
-| [[01. Dog Logs/02. Events/2024-06-18 - Scent detection session\|2024-06-18 - Scent detection session]]                                                               | Down Stay      | 0               | \-                      | \-         |
-| [[01. Dog Logs/02. Events/2024-06-19 - Relaxation Protocol\|2024-06-19 - Relaxation Protocol]]                                                                       | Down Stay      | 0               | \-                      | \-         |
-| [[01. Dog Logs/02. Events/2024-08-11-1215 - Kibeth Multi\|2024-08-11-1215 - Kibeth Multi]]                                                                           | \-             | 45              | \-                      | \-         |
+| [[01. Dog Logs/02. Events/2023-11-28 -Hike at Bronson\|2023-11-28 -Hike at Bronson]]                                                                                 | Walk/Hike      | 55              | Bronson Ave             | ⭐️⭐️⭐️⭐️⭐️ |
+| [[01. Dog Logs/02. Events/2024-01-23 Kibeth Practiced Obedience and ate dinner from Box Tower\|2024-01-23 Kibeth Practiced Obedience and ate dinner from Box Tower]] | Skill Training | 0               | Home -Living Room       | \-         |
+| [[01. Dog Logs/02. Events/2024-01-01 - Kibeth Run at Brunello\|2024-01-01 - Kibeth Run at Brunello]]                                                                 | \-             | 40              | Links At Brunello       | \-         |
+| [[01. Dog Logs/02. Events/2023-12-31 - Kibeth and Loki play with Rosie\|2023-12-31 - Kibeth and Loki play with Rosie]]                                               | Social Time    | 65              | \-                      | \-         |
+| [[01. Dog Logs/02. Events/2023-12-22 Kibeth tug\|2023-12-22 Kibeth tug]]                                                                                             | \-             | 15              | \-                      | \-         |
 
 { .block-language-dataview}

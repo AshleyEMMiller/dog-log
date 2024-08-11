@@ -68,8 +68,8 @@ mainContainerStyle:
 | [[01. Dog Logs/02. Events/2024-08-10-0948 - Kibeth Downstay Practice\|2024-08-10-0948 - Kibeth Downstay Practice]]   | ![\|100](\-) | Kibeth, Loki | Down Stay/Relaxation Protocol | ⭐️⭐️⭐️⭐️⭐️ |
 | [[01. Dog Logs/02. Events/2024-08-10-2114 - Kibeth Trick Training\|2024-08-10-2114 - Kibeth Trick Training]]         | ![\|100](\-) | Kibeth       | \-                            | \-         |
 | [[01. Dog Logs/02. Events/2024-08-10-2238 - Loki walk\|2024-08-10-2238 - Loki walk]]                                 | ![\|100](\-) | Loki         | \-                            | \-         |
-| [[01. Dog Logs/02. Events/2024-08-09-0743 - Kibeth Down stay practice\|2024-08-09-0743 - Kibeth Down stay practice]] | ![\|100](\-) | Kibeth       | Down Stay/Relaxation Protocol | \-         |
 | [[01. Dog Logs/02. Events/2024-08-09-0904 - Kibeth Trick training\|2024-08-09-0904 - Kibeth Trick training]]         | ![\|100](\-) | Kibeth       | \-                            | \-         |
+| [[01. Dog Logs/02. Events/2024-08-09-0743 - Kibeth Down stay practice\|2024-08-09-0743 - Kibeth Down stay practice]] | ![\|100](\-) | Kibeth       | Down Stay/Relaxation Protocol | \-         |
 | [[01. Dog Logs/02. Events/2024-08-05-2342 - Kibeth Neighbourhood Walk\|2024-08-05-2342 - Kibeth Neighbourhood Walk]] | ![\|100](\-) | Kibeth       | Night time neighbourhood walk | ⭐️⭐️⭐️⭐️   |
 | [[01. Dog Logs/02. Events/2024-07-09 - 1000 - Kibeth\|2024-07-09 - 1000 - Kibeth]]                                   | ![\|100](\-) | Kibeth       | Behaviour Mod, Skill Training | ⭐️⭐️⭐️     |
 | [[01. Dog Logs/02. Events/2024-07-08 - 1150am - Kibeth LAT training\|2024-07-08 - 1150am - Kibeth LAT training]]     | ![\|100](\-) | Kibeth       | Behaviour Mod                 | ⭐️⭐️⭐️     |
