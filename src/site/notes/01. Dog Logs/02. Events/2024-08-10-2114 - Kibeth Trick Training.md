@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-10-2114-kibeth-trick-training/","tags":["Doggos/Activity"],"noteIcon":"","created":"2024-08-10T21:14:56.589-03:00","updated":"2024-08-11T20:46:07.251-03:00"}
+{"dg-publish":true,"permalink":"/01-dog-logs/02-events/2024-08-10-2114-kibeth-trick-training/","tags":["Doggos/Activity"],"noteIcon":"","created":"2024-08-10T21:14:56.589-03:00","updated":"2024-08-11T21:03:15.635-03:00"}
 ---
 
 !`=this.Cover`
 
 **Overall Rating:** `=this.Rating`
-**Summary**: I did `=this.Type` with Kibeth at/in `=this.Location` for 54 minutes.
+**Summary**: I did Skill Training,Cooperative Care with Kibeth at/in `=this.Location` for 54 minutes.
 # Activities
 >[!Important]-  Time tracker
 >```simple-time-tracker
